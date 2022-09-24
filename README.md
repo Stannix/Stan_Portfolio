@@ -1,4 +1,4 @@
-# Stan-s_portfolio
+# Stan_Portfolio
 
 # [Project 1: BuyBuy Business Case]
 
